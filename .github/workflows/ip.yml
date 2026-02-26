@@ -9,6 +9,10 @@ jobs:
   fetch-and-push:
     runs-on: ubuntu-latest
 
+    # 新增以下权限配置
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3

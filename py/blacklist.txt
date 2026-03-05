@@ -2246,3 +2246,12 @@
 106.118.76.173:4022 # 死链
 114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
 111.167.17.186:5002 # 死链
+183.56.120.114:40000 # 屏蔽区域: Guangdong China Telecom
+223.244.184.100:7000 # 死链
+42.232.116.129:4022 # 死链
+183.56.120.113:40000 # 屏蔽区域: Guangdong China Telecom
+59.35.221.134:1024 # 屏蔽区域: Guangdong China Telecom
+218.1.138.207:4022 # 屏蔽区域: Shanghai China Telecom (Group)
+106.118.76.173:4022 # 死链
+114.95.80.29:9001 # 屏蔽区域: Shanghai China Telecom (Group)
+111.167.17.186:5002 # 死链
